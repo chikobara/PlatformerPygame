@@ -9,7 +9,6 @@ class Level:
 
     def setup_level(self, layout):
         self.tiles = pygame.sprite.Group()
-        
 
     def run(self):
-        
+        pass
